@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of the analysis in this repository is to determine whether applicants will be successful if funded by Alphabet Soup. 
+The purpose of the analysis in this repository is to create a neural network model that can assist in determining whether applicants will be successful if funded by Alphabet Soup. The model's accuracy is a key performance criteria of the model's success.
 
 ## Resources
 
